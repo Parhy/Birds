@@ -4,12 +4,10 @@
 
 <img src="https://raw.githubusercontent.com/Parhy/Birds/master/BannerIA2.png" style="width:700px;">
 
-**Objetivo: Predecir la cantidad de casos de dengue e identificar qué factor climatológico influye más en la propagación.**
+**Objetivo: Clasificar imágenes de diversas especies de aves haciendo uso de redes neuronales convolucionales **
 
-- Dataset: 250 Bird Species.
-- Modelo: CNN, Transfer Learning, autoencoders.
+- Dataset: Bird Species.
+- Modelo: CNN, MobileNet, ResNet y autoencoders.
 
 [(Video)](https://youtu.be/Q229CUkoxvk) 
 [(Dataset)](https://www.kaggle.com/gpiosenka/100-bird-species) 
-[(Poster)](https://github.com/Parhy) 
-[(+info)](https://github.com/Parhy)
