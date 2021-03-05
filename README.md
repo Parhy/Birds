@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Parhy/Birds/master/BannerIA2.png" style="width:700px;">
 
-**Objetivo: Clasificar imágenes de diversas especies de aves haciendo uso de redes neuronales convolucionales **
+**Objetivo: Identificar correctamente diferentes espcies de aves a través de una serie de imágenes **
 
 - Dataset: Bird Species.
 - Modelo: CNN, MobileNet, ResNet y autoencoders.
