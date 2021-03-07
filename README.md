@@ -4,10 +4,10 @@
 
 <img src="https://raw.githubusercontent.com/Parhy/Birds/master/BannerIA2.png" style="width:700px;">
 
-**Objetivo: Identificar correctamente diferentes espcies de aves a través de una serie de imágenes**
+**Objetivo: Realizar una clasificación de diferentes especies de aves a través de una serie de imágenes, e identificar especies que se puedan confundir con otras por su parecido. **
 
 - Dataset: Bird Species.
-- Modelo: CNN, MobileNet, ResNet y autoencoders.
+- Modelo: MobileNet, ResNet y autoencoders.
 
 [(Video)](https://youtu.be/Q229CUkoxvk) 
 [(Dataset)](https://www.kaggle.com/gpiosenka/100-bird-species) 
