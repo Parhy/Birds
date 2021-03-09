@@ -7,7 +7,7 @@
 **Objetivo: Realizar una clasificación de diferentes especies de aves a través de una serie de imágenes, e identificar especies que puedan ser confundidas con otras debido con otras por su parecido físico. **
 
 - Dataset: Bird Species.
-- Modelo: MobileNet and ResNet y.
+- Modelo: MobileNet and ResNet.
 
 [(Video)](https://youtu.be/Q229CUkoxvk) 
 [(Dataset)](https://www.kaggle.com/gpiosenka/100-bird-species) 
