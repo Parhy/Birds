@@ -9,5 +9,5 @@
 - Dataset: Bird Species.
 - Modelo: MobileNet and ResNet.
 
-[(Video)](https://youtu.be/Q229CUkoxvk) 
+[(Video)](https://youtu.be/F9ZSR4qR6nQ) 
 [(Dataset)](https://www.kaggle.com/gpiosenka/100-bird-species) 
